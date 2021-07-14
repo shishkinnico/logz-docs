@@ -1536,9 +1536,7 @@ paths:
       summary: Retrieve all connected S3 buckets
       description: >-
         Returns a list of all S3 buckets connected to your Logz.io account.
-
-
-        **Note:** This endpoint requires permissions that must be set by our Support team. Please email [help@logz.io](mailto:help@logz.io) for assistance.
+        
       tags:
         - Connect to S3 Buckets
       operationId: getS3Buckets
